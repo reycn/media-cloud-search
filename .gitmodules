@@ -1,0 +1,6 @@
+[submodule "api-tutorial-notebooks"]
+	path = api-tutorial-notebooks
+	url = https://github.com/mediacloud/api-tutorial-notebooks.git
+[submodule "script/api-tutorial-notebooks"]
+	path = script/api-tutorial-notebooks
+	url = https://github.com/mediacloud/api-tutorial-notebooks.git
