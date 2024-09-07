@@ -1,0 +1,26 @@
+id,name,media,name_clean,total
+19260,abcnews.go.com,ABC,abc,3967
+18897,bbc.co.uk,BBC News,bbc,8173
+19334,breitbart.com,Breitbart,bb,1929
+18710,businessinsider.com,Business Insider,bi,3045
+6218,buzzfeed.com,BuzzFeed,buzz,3696
+1752,cbsnews.com,CBS,cbs,13561
+1095,cnn.com,CNN,cnn,13423010
+18775,dailycaller.com,Daily Caller,caller,2577
+1092,foxnews.com,Fox,fox,8209
+28136,hannity.com,Sean Hannity,sean,132
+293951,msnbc.com,MSNBC,msnbc,519
+25499,nbcnews.com,NBC,nbc,1616
+1098,newsweek.com,Newsweek,week,3873
+1096,npr.org,NPR,npr,13423010
+7,nypost.com,New York Post,nyp,6796
+1,nytimes.com,New York Times,nyt,13423010
+1093,pbs.org,PBS,pbs,852
+18342,politico.com,Politico,pol,991
+1751,theguardian.com,Guardian,guard,548
+4419,time.com,TIME,time,575
+4,usatoday.com,USA Today,usa,778
+21617,vice.com,Vice,vice,413
+104828,vox.com,Vox,vox,166
+2,washingtonpost.com,Washington Post,wp,5779
+22732,wsj.com,Wall Street Journal,wsj,7620

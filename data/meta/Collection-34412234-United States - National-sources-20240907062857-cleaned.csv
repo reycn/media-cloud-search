@@ -41,7 +41,7 @@ id,name,label,homepage,stories_per_week,primary_language,name_clean
 1092,foxnews.com,Fox News,http://www.foxnews.com/,1446,,fox
 1095,cnn.com,CNN,http://www.cnn.com/,1175,,cnn
 1096,npr.org,NPR,https://www.npr.org/,921,,npr
-1098,newsweek.com,Newsweek,http://www.newsweek.com/,726,en,newsweek
+1098,newsweek.com,Newsweek,http://www.newsweek.com/,726,en,week
 1100,usnews.com,US News & World Report,http://www.usnews.com/,-1,en,usnews
 1101,newyorker.com,New Yorker,http://www.newyorker.com/,200,en,newyorker
 1104,forbes.com,Forbes,http://www.forbes.com/,1770,en,forbes
@@ -57,7 +57,7 @@ id,name,label,homepage,stories_per_week,primary_language,name_clean
 1641,cleveland.com,cleveland.com,http://www.cleveland.com/,1025,en,cleveland
 1706,upi.com,UPI,http://www.upi.com/,479,,upi
 1707,thedailybeast.com,Daily Beast,http://www.thedailybeast.com/,128,en,thedailybeast
-1751,theguardian.com,Guardian US,https://www.theguardian.com/us,256,en,guardian
+1751,theguardian.com,Guardian US,https://www.theguardian.com/us,256,en,guard
 1752,cbsnews.com,CBS News,http://www.cbsnews.com/,744,,cbs
 1755,cnbc.com,CNBC,http://www.cnbc.com/,400,en,cnbc
 1757,salon.com,Salon,http://www.salon.com/,160,,salon
@@ -73,7 +73,7 @@ id,name,label,homepage,stories_per_week,primary_language,name_clean
 5915,fivethirtyeight.com,FiveThirtyEight,http://www.fivethirtyeight.com/,15,en,fivethirtyeight
 5982,businessweek.com,BusinessWeek.com,http://www.businessweek.com/,-1,en,businessweek
 6154,jezebel.com,Jezebel,http://jezebel.com,68,en,jezebel
-6218,buzzfeed.com,Buzzfeed,http://www.buzzfeed.com,1471,,buzzfeed
+6218,buzzfeed.com,Buzzfeed,http://www.buzzfeed.com,1471,,buzz
 18342,politico.com,politico.com,http://www.politico.com,305,en,pol
 18351,arstechnica.com,arstechnica.com,http://arstechnica.com,90,en,arstechnica
 18393,opensecrets.org,OpenSecrets,http://www.opensecrets.org,3,en,opensecrets
