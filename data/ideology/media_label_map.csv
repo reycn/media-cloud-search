@@ -1,0 +1,30 @@
+label,media,legacy,paywall,newspaper,short_name
+ABC,u_abc,1,0,0,ABC
+BREITBARTNEWS,u_bb,0,0,0,Breitbart
+BBCWORLD,u_bbc,1,0,0,BBC
+BUSINESSINSIDER,u_bi,0,1,0,Business Insider
+BUZZFEEDNEWS,u_buzz,0,0,0,BuzzFeed
+DAILYCALLER,u_caller,0,,0,Daily Caller
+CBSNEWS,u_cbs,1,,0,CBS
+CNN,u_cnn,1,,0,CNN
+DCEXAMINER,u_exam,1,,0,Washington Examiner
+FOXNEWS,u_fox,1,,0,Fox
+GUARDIAN,u_guard,1,,1,Guardian
+THEHILL,u_hill,1,,1,Hill
+HUFFPOST,u_hp,0,,0,HuffPost
+MSNBC,u_msnbc,1,,0,MSNBC
+NBCNEWS,u_nbc,1,,0,NBC
+NPR,u_npr,1,,0,NPR
+NYPOST,u_nyp,1,,1,NYPost
+NYTIMES,u_nyt,1,,1,NYT
+PBS,u_pbs,1,,0,PBS
+POLITICO,u_pol,0,,0,POLITICO
+SEANHANNITY,u_sean,1,,0,Sean Hannity
+TIME,u_time,1,,0,TIME
+USATODAY,u_usa,1,,1,USA Today
+VICE,u_vice,1,,0,VICE
+VOXDOTCOM,u_vox,0,,0,Vox
+NEWSWEEK,u_week,1,,0,Newsweek
+WASHINGTONPOST,u_wp,1,,1,WaPo
+WSJ,u_wsj,1,,1,WSJ
+All Media,,,,,All Media

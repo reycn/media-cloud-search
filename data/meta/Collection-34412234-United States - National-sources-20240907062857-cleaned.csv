@@ -1,0 +1,250 @@
+id,name,label,homepage,stories_per_week,primary_language,name_clean
+1,nytimes.com,New York Times,http://nytimes.com,1245,,nyt
+2,washingtonpost.com,Washington Post,http://washingtonpost.com,1940,,wp
+3,csmonitor.com,Christian Science Monitor,http://csmonitor.com,93,en,csmonitor
+4,usatoday.com,USA Today,http://www.usatoday.com,1422,,usa
+6,latimes.com,LA Times,http://www.latimes.com/,1310,,latimes
+7,nypost.com,New York Post,http://www.nypost.com/,2203,,nyp
+9,chicagotribune.com,Chicago Tribune,http://www.chicagotribune.com/,653,,chicagotribune
+10,chron.com,houstonchronicle,http://www.chron.com/,361,en,chron
+12,dallasnews.com,Dallas Morning News,http://www.dallasnews.com/,-1,en,dallasnews
+13,newsday.com,Newsday,http://www.newsday.com/,1008,,newsday
+14,sfgate.com,SF Gate,http://www.sfgate.com/,1002,en,sfgate
+21511,bostonglobe.com,Boston Globe,http://www.bostonglobe.com,260,en,bostonglobe
+19,startribune.com,Star Tribune,http://www.startribune.com/,1105,,startribune
+22,tampabay.com,Tampa Bay Times,http://www.tampabay.com/,103,en,tampabay
+25,ocregister.com,Orange County Register,http://www.ocregister.com/,496,en,ocregister
+26,sacbee.com,Sac Bee,http://www.sacbee.com/,-1,en,sacbee
+28,miamiherald.com,Miami Herald,http://www.miamiherald.com/,15,en,miamiherald
+30,kansascity.com,Kansas City Star,http://www.kansascity.com/,-1,en,kansascity
+34,baltimoresun.com,Baltimore Sun,http://www.baltimoresun.com/,502,en,baltimoresun
+35,mercurynews.com,San Jose Mercury News,http://www.mercurynews.com/,923,en,mercurynews
+36,jsonline.com,Milwaukee Journal Sentinel,http://www.jsonline.com/,508,en,jsonline
+38,orlandosentinel.com,Orlando Sentinel,http://www.orlandosentinel.com/,377,en,orlandosentinel
+39,sun-sentinel.com,South Florida Sun-Sentinel,http://www.sun-sentinel.com/,308,en,sun-sentinel
+41,dispatch.com,Columbus Dispatch,http://www.dispatch.com/,-1,en,dispatch
+45,post-gazette.com,Pittsburgh Post-Gazette,http://www.post-gazette.com/,303,en,post-gazette
+52,twincities.com,St.Paul Pioneer-Press,http://www.twincities.com/,516,en,twincities
+54,omaha.com,Omaha World-Herald,http://www.omaha.com/,0,en,omaha
+147704,arkansasonline.com,arkansasonline.com,http://arkansasonline.com/,908,,arkansasonline
+57,buffalonews.com,The Buffalo News,buffalonews.com,0,,buffalonews
+59,courant.com,Hartford Courant,http://www.courant.com/,128,en,courant
+113,talkingpointsmemo.com,Talking Points Memo,http://www.talkingpointsmemo.com,55,,talkingpointsmemo
+115,dailykos.com,Daily Kos,http://www.dailykos.com,172,,dailykos
+117,hotair.com,Hot Air,http://hotair.com,151,en,hotair
+128,redstate.com,RedState,http://www.redstate.com,207,en,redstate
+140,politicalwire.com,Taegan Goddard's Political Wire,http://politicalwire.com,322,en,politicalwire
+401,tnr.com,The New Replublic,http://www.tnr.com/,81,en,tnr
+798,factcheck.org,FactCheck,http://factcheck.org/,6,en,factcheck
+1040,realclearpolitics.com,RealClearPolitics,http://realclearpolitics.com/,566,en,realclearpolitics
+1089,reuters.com,Reuters,http://www.reuters.com/,2,,reuters
+1092,foxnews.com,Fox News,http://www.foxnews.com/,1446,,fox
+1095,cnn.com,CNN,http://www.cnn.com/,1175,,cnn
+1096,npr.org,NPR,https://www.npr.org/,921,,npr
+1098,newsweek.com,Newsweek,http://www.newsweek.com/,726,en,newsweek
+1100,usnews.com,US News & World Report,http://www.usnews.com/,-1,en,usnews
+1101,newyorker.com,New Yorker,http://www.newyorker.com/,200,en,newyorker
+1104,forbes.com,Forbes,http://www.forbes.com/,1770,en,forbes
+1105,fortune.com,Fortune,http://fortune.com,306,en,fortune
+1110,theatlantic.com,Atlantic,http://www.theatlantic.com/,91,,theatlantic
+1112,motherjones.com,Mother Jones,http://www.motherjones.com/,35,en,motherjones
+1113,harpers.org,Harper's Magazine,http://www.harpers.org/,3,en,harpers
+1008,thenation.com,Nation,http://thenation.com/,122,en,thenation
+1117,nationalreview.com,National Review,http://www.nationalreview.com/,128,en,nationalreview
+1125,newsbusters.org,NewsBusters,http://newsbusters.org,119,en,newsbusters
+1127,rawstory.com,Raw Story,http://rawstory.com,573,,rawstory
+22732,wsj.com,on.wsj.com,http://on.wsj.com,1614,,wsj
+1641,cleveland.com,cleveland.com,http://www.cleveland.com/,1025,en,cleveland
+1706,upi.com,UPI,http://www.upi.com/,479,,upi
+1707,thedailybeast.com,Daily Beast,http://www.thedailybeast.com/,128,en,thedailybeast
+1751,theguardian.com,Guardian US,https://www.theguardian.com/us,256,en,guardian
+1752,cbsnews.com,CBS News,http://www.cbsnews.com/,744,,cbs
+1755,cnbc.com,CNBC,http://www.cnbc.com/,400,en,cnbc
+1757,salon.com,Salon,http://www.salon.com/,160,,salon
+4415,cnet.com,CNET,http://cnet.com,391,en,cnet
+4419,time.com,Time,http://time.com,128,en,time
+4438,techcrunch.com,TechCrunch,http://techcrunch.com,251,en,techcrunch
+366306,espn.com,espn.com,http://espn.com/,423,,espn
+4469,gizmodo.com,Gizmodo,http://gizmodo.com,191,en,gizmodo
+5521,rollingstone.com,Rolling Stone,http://www.rollingstone.com,245,en,rollingstone
+5527,mashable.com,Mashable!,http://mashable.com,233,en,mashable
+5856,eonline.com,E! Online,http://www.eonline.com/,355,en,eonline
+5880,gawker.com,Gawker,http://gawker.com,12,en,gawker
+5915,fivethirtyeight.com,FiveThirtyEight,http://www.fivethirtyeight.com/,15,en,fivethirtyeight
+5982,businessweek.com,BusinessWeek.com,http://www.businessweek.com/,-1,en,businessweek
+6154,jezebel.com,Jezebel,http://jezebel.com,68,en,jezebel
+6218,buzzfeed.com,Buzzfeed,http://www.buzzfeed.com,1471,,buzzfeed
+18342,politico.com,politico.com,http://www.politico.com,305,en,pol
+18351,arstechnica.com,arstechnica.com,http://arstechnica.com,90,en,arstechnica
+18393,opensecrets.org,OpenSecrets,http://www.opensecrets.org,3,en,opensecrets
+18496,hollywoodreporter.com,Hollywood Reporter,http://www.hollywoodreporter.com,312,en,hollywoodreporter
+18658,weeklystandard.com,Weekly Standard,http://www.weeklystandard.com,-1,en,weeklystandard
+18704,thewrap.com,The Wrap,http://www.thewrap.com,311,en,thewrap
+18710,businessinsider.com,Business Insider,http://www.businessinsider.com,186,en,bi
+18775,dailycaller.com,Daily Caller,http://dailycaller.com,651,,caller
+19076,variety.com,variety.com,http://www.variety.com,439,en,variety
+19082,pjmedia.com,PJ Media,http://pjmedia.com,131,en,pjmedia
+19194,billboard.com,Billboard,http://www.billboard.com,371,en,billboard
+19317,mongabay.com,Mongabay,https://news.mongabay.com/,27,en,mongabay
+19334,breitbart.com,Breitbart,http://www.breitbart.com,667,,bb
+19466,maxpreps.com,maxpreps.com,http://www.maxpreps.com,-1,en,maxpreps
+25915,postandcourier.com,postandcourier.com,http://www.postandcourier.com,0,,postandcourier
+19643,slate.com,Slate.com,http://www.slate.com,103,en,slate
+19763,townhall.com,townhall.com,http://townhall.com,86,en,townhall
+19854,rollcall.com,Roll Call,http://www.rollcall.com,58,en,rollcall
+20060,bizjournals.com,bizjournals.com,https://www.bizjournals.com,-1,en,bizjournals
+20120,nj.com,nj.com,http://www.nj.com,1677,en,nj
+20357,cnsnews.com,CNS News,http://cnsnews.com,2,en,cnsnews
+20410,livescience.com,livescience.com,http://www.livescience.com,55,en,livescience
+20639,propublica.org,ProPublica,http://www.propublica.org,12,en,propublica
+20815,pitchfork.com,pitchfork.com,http://www.pitchfork.com,126,en,pitchfork
+20982,vanityfair.com,Vanity Fair,http://www.vanityfair.com,121,en,vanityfair
+21038,c-span.org,CSPAN,http://www.c-span.org,-1,en,c-span
+21091,observer.com,observer.com,http://www.observer.com,55,en,observer
+21270,stripes.com,Stars and Stripes,http://www.stripes.com,103,en,stripes
+21542,theweek.com,The Week,http://theweek.com,206,en,theweek
+21619,thestreet.com,The Street,http://www.thestreet.com,261,en,thestreet
+21919,spectator.org,American Spectator,http://spectator.org,48,en,spectator
+1723,pri.org,PRI,http://www.pri.org,17,en,pri
+22041,benzinga.com,Benzinga,http://www.benzinga.com,126,en,benzinga
+22088,theblaze.com,Blaze,http://www.theblaze.com,233,,theblaze
+22116,techradar.com,techradar.com,http://www.techradar.com,419,,techradar
+22332,truth-out.org,Truthout,http://www.truth-out.org,47,en,truth-out
+22383,kapitall.com,Kapitall Wire,http://wire.kapitall.com,-1,en,kapitall
+22389,deadspin.com,Deadspin,http://deadspin.com,209,en,deadspin
+33,mysanantonio.com,San Antonio Express News,http://www.mysanantonio.com/,273,en,mysanantonio
+17,ajc.com,The Atlanta Journal Constitution,http://www.ajc.com/,0,en,ajc
+23290,ncregister.com,National Catholic Register,http://www.ncregister.com,91,en,ncregister
+24581,colorlines.com,colorlines.com,http://colorlines.com,12,en,colorlines
+24621,hollywoodlife.com,hollywoodlife.com,http://hollywoodlife.com,257,en,hollywoodlife
+24652,opposingviews.com,opposingviews.com,http://www.opposingviews.com,86,en,opposingviews
+24661,newsone.com,newsone.com,http://newsone.com,9,en,newsone
+24745,nbcsports.com,NBC Sports,http://www.nbcsports.com/,331,en,nbcsports
+24747,radaronline.com,radaronline.com,http://www.radaronline.com,228,en,radaronline
+24757,usmagazine.com,US Weekly,http://www.usmagazine.com,468,en,usmagazine
+24901,bleacherreport.com,Bleacher Report,http://bleacherreport.com,1326,en,bleacherreport
+24940,seattletimes.com,Seattle Times,http://seattletimes.com,-1,en,seattletimes
+25128,azcentral.com,AZCentral,http://www.azcentral.com,1129,en,azcentral
+27,stltoday.com,St. Louis Post Dispatch,http://www.stltoday.com/,1307,en,stltoday
+25180,creators.com,creators.com,http://www.creators.com,-1,en,creators
+25336,eurweb.com,eurweb,http://www.eurweb.com,136,en,eurweb
+25349,newsmax.com,Newsmax,http://www.newsmax.com,-1,,newsmax
+25363,nationalmemo.com,National Memo,http://www.nationalmemo.com,37,en,nationalmemo
+25626,patriotpost.us,patriot post,http://patriotpost.us,55,en,patriotpost
+111288,centralmaine.com,centralmaine.com,http://centralmaine.com/,480,,centralmaine
+25848,cbssports.com,cbssports.com,http://www.cbssports.com,928,en,cbssports
+26140,gazettenet.com,gazettenet.com,http://www.gazettenet.com,171,en,gazettenet
+26310,rutlandherald.com,rutlandherald.com,http://www.rutlandherald.com,-1,en,rutlandherald
+26363,opednews.com,opednews.com,http://www.opednews.com,46,en,opednews
+26590,cincinnati.com,cincinnati.com,http://cincinnati.com,382,en,cincinnati
+26924,inquisitr.com,Inquisitr,http://www.inquisitr.com,97,en,inquisitr
+323119,indiewire.com,IndieWire,http://www.indiewire.com/feed/,62,en,indiewire
+27011,investors.com,Investors,http://www.investors.com,-1,en,investors
+27343,grist.org,Grist,http://grist.org/,21,en,grist
+314,huffingtonpost.com,The Huffington Post (broken),http://www.huffingtonpost.com/,1399,en,hp
+27510,ibabuzz.com,The HayWord -,http://www.ibabuzz.com/hayword/,-1,en,ibabuzz
+28248,pressrepublican.com,Press-Republican,http://pressrepublican.com/,-1,,pressrepublican
+27063,pewstates.org,pewstates.org,http://www.pewstates.org,111,,pewstates
+29827,rttnews.com,rttnews,http://www.rttnews.com#spider,452,en,rttnews
+31137,therealnews.com,TheRealNews.com,http://therealnews.com#spider,15,en,therealnews
+370876,barrons.com,buy.barrons.com,http://buy.barrons.com/,0,,barrons
+33514,parade.com,Parade,http://www.parade.com#spider,-1,en,parade
+196181,ncronline.org,openx.ncronline.org,http://openx.ncronline.org/,52,,ncronline
+34663,breakingnews.com,NBC Breaking News,http://www.breakingnews.com#spider,-1,,breakingnews
+19562,marketwatch.com,Market Watch,http://www.marketwatch.com,0,en,marketwatch
+20263,scientificamerican.com,scientificamerican.com,http://www.scientificamerican.com,286,,scientificamerican
+38987,monstersandcritics.com,monstersandcritics,http://www.monstersandcritics.com/,279,en,monstersandcritics
+19260,abcnews.go.com,abcnews.go.com,http://abcnews.go.com,1017,,abc
+18747,zdnet.com,zdnet.com,http://www.zdnet.com,142,,zdnet
+39573,staradvertiser.com,HonululuAdvertiser,http://www.staradvertiser.com/,500,en,staradvertiser
+18410,wired.com,wired.com,http://www.wired.com,86,,wired
+18482,bloomberg.com,bloomberg.com,http://www.bloomberg.com,357,,bloomberg
+4420,engadget.com,Engadget,http://engadget.com,311,en,engadget
+20273,ibtimes.com,ibtimes.com,http://www.ibtimes.com,931,,ibtimes
+48639,sentinelsource.com,sentinelsource.com,http://www.sentinelsource.com/#spider,-1,en,sentinelsource
+367274,theconversation.com,theconversation.com,http://theconversation.com/,394,,theconversation
+25933,syracuse.com,syracuse.com,http://www.syracuse.com,547,,syracuse
+4467,tmz.com,TMZ.com,http://www.tmz.com,124,en,tmz
+1140,alternet.org,AlterNet,http://www.alternet.org/,221,en,alternet
+57166,univision.com,univision.com,http://univision.com/,-1,es,univision
+226,newsblaze.com,News Blaze,http://newsblaze.com,8,en,newsblaze
+62552,elnuevodia.com,El Nuevo Dia,http://elnuevodia.com/,24,,elnuevodia
+1490,mlive.com,MLive.com,http://www.mlive.com,959,en,mlive
+367245,qz.com,qz.com,http://qz.com/,100,,qz
+690347,ign.com,s.ign.com,http://s.ign.com/,755,,ign
+860476,sbnation.com,s.sbnation.com,http://s.sbnation.com/,74,,sbnation
+67771,airforcetimes.com,AirforceTimes,http://www.airforcetimes.com/#spider,111,en,airforcetimes
+1793073,uproxx.com,x.uproxx.com,http://x.uproxx.com/,450,,uproxx
+1743487,providencejournal.com,amp.providencejournal.com,http://amp.providencejournal.com/,-1,,providencejournal
+159383,fansided.com,fansided.com,http://fansided.com/,436,,fansided
+136666,americanfreepress.net,shop.americanfreepress.net,http://shop.americanfreepress.net/,3,,americanfreepress
+151583,polygon.com,live.polygon.com,http://live.polygon.com/,133,,polygon
+386565,elitedaily.com,cdn29.elitedaily.com,http://cdn29.elitedaily.com/,63,,elitedaily
+70420,armytimes.com,ArmyTimes,http://www.armytimes.com/#spider,93,en,armytimes
+70638,navytimes.com,NavyTimes,http://www.navytimes.com/#spider,105,en,navytimes
+1855715,fayobserver.com,amp.fayobserver.com,http://amp.fayobserver.com/,-1,,fayobserver
+72605,ew.com,Entertainment Weekly,http://www.ew.com,-1,en,ew
+74242,norwichbulletin.com,norwichbulletin.com,http://www.norwichbulletin.com/#spider,-1,en,norwichbulletin
+18733,oregonlive.com,oregonlive.com,http://www.oregonlive.com,789,,oregonlive
+22529,philly.com,philly.com,http://www.philly.com,-1,,philly
+77578,nhgazette.com,nhgazette.com,http://www.nhgazette.com/#spider,9,en,nhgazette
+79209,pilotonline.com,pilotonline.com,http://pilotonline.com/#spider,459,en,pilotonline
+79587,marinetimes.com,marinetimes.com,http://www.marinetimes.com/#spider,13,en,marinetimes
+323222,popmatters.com,http://www.popmatters.com/feeds/,http://www.popmatters.com/feeds,27,en,popmatters
+1289242,ledger-enquirer.com,amp.ledger-enquirer.com,http://amp.ledger-enquirer.com/,-1,,ledger-enquirer
+84582,fusion.net,Fusion,http://fusion.net,-1,en,fusion
+85364,newsy.com,newsy,http://www.newsy.com/#spider,242,en,newsy
+20992,indystar.com,indystar.com,http://www.indystar.com,27,,indystar
+86303,accesshollywood.com,Access Hollywood,http://www.accesshollywood.com/#spider,-1,en,accesshollywood
+86512,x17online.com,x17online.com,http://www.x17online.com/#spider,2,en,x17online
+88260,eater.com,eater.com,http://eater.com/#spider,22,en,eater
+1274884,saturdayeveningpost.com,files.saturdayeveningpost.com,http://files.saturdayeveningpost.com/,13,,saturdayeveningpost
+366942,bustle.com,bustle.com,http://bustle.com/,192,,bustle
+588414,hudsonvalley360.com,hudsonvalley360.com,http://hudsonvalley360.com/,-1,,hudsonvalley360
+104828,vox.com,Vox,http://www.vox.com,64,,vox
+104377,contactomagazine.com,Contacto,http://www.contactomagazine.com,-1,es,contactomagazine
+104698,refinery29.com,Refinery29,http://www.refinery29.com,70,en,refinery29
+366790,dailysignal.com,dailysignal.com,http://dailysignal.com/,74,,dailysignal
+105196,talkingnewmedia.com,talkingnewmedia.com,http://talkingnewmedia.com/#spider,0,en,talkingnewmedia
+106678,inquirer.com,Inquirer,http://inquirer.com/,-1,,inquirer
+19508,theverge.com,theverge,http://www.theverge.com,171,,theverge
+107659,mintpressnews.com,MintPress News,http://mintpressnews.com/,6,en,mintpressnews
+109076,mic.com,Mic,http://mic.com/,18,en,mic
+111877,thepostgame.com,The PostGame,http://thepostgame.com/,2,en,thepostgame
+113747,recorder.com,recorder.com,http://recorder.com/,166,en,recorder
+125751,axcessnews.com,AxcessNews,http://axcessnews.com/,3,en,axcessnews
+127733,oann.com,Oan,http://oann.com/,244,en,oann
+136431,berkshireeagle.com,berkshireeagle.com,http://berkshireeagle.com/,-1,en,berkshireeagle
+140484,thrillist.com,thrillist.com,http://thrillist.com/,178,en,thrillist
+143374,redherring.com,Red Herring,http://redherring.com/,3,en,redherring
+146969,axs.com,axs.com,http://axs.com/,-1,en,axs
+147903,247sports.com,247sports.com,http://247sports.com/,186,en,247sports
+173769,augustachronicle.com,augustachronicle.com,http://augustachronicle.com/,-1,,augustachronicle
+98456,sportingnews.com,Sporting News - Real Insight. Real Fans. Real Conversations.,http://sportingnews.com,876,en,sportingnews
+244743,indiancountrytoday.com,Indian Country Today,http://indiancountrytoday.com/,58,en,indiancountrytoday
+259449,cherokeephoenix.org,Cherokee Phoenix,http://cherokeephoenix.org/,-1,,cherokeephoenix
+268225,sandiegouniontribune.com,San Diego Union Tribune,http://sandiegouniontribune.com/,29,en,sandiegouniontribune
+366870,theintercept.com,theintercept.com,http://theintercept.com/,68,,theintercept
+1093,pbs.org,PBS,http://www.pbs.org/,220,en,pbs
+55476,foxsports.com,www.foxsports.com,http://www.foxsports.com/,619,en,foxsports
+278480,scout.com,Scout,http://scout.com/,-1,en,scout
+285572,talkmedianews.com,Talk Media News,http://talkmedianews.com/,-1,en,talkmedianews
+300241,dailysource.org,Daily Source,http://www.dailysource.org/,59,en,dailysource
+19452,lexisnexis.com,lexisnexis.com,http://www.lexisnexis.com,18,,lexisnexis
+21208,people.com,people.com,http://www.people.com,-1,,people
+300477,polamjournal.com,Polish American Journal,http://www.polamjournal.com/,-1,en,polamjournal
+300516,schwartzreport.net,Schwartzreport,http://www.schwartzreport.net/,31,en,schwartzreport
+21617,vice.com,vice.com,http://www.vice.com,158,en,vice
+324726,antena305.com,antena305.com,http://antena305.com/,4,es,antena305
+293951,msnbc.com,msnbc.com 1,http://msnbc.com/,124,en,msnbc
+20487,gq.com,GQ,http://www.gq.com,73,en,gq
+21515,foxbusiness.com,Fox Business,http://www.foxbusiness.com,14,en,foxbusiness
+20401,dailydot.com,Daily Dot,http://www.dailydot.com,181,en,dailydot
+255385,indiancountrynews.com,indiancountrynews.com,http://indiancountrynews.com/,-1,en,indiancountrynews
+367446,nationalenquirer.com,nationalenquirer.com,http://nationalenquirer.com/,2,en,nationalenquirer
+25791,theroot.com,The Root,http://www.theroot.com,81,en,theroot
+31,denverpost.com,The Denver Post,http://www.denverpost.com/,642,en,denverpost
+413473,hollywoodweeklymagazine.com,hollywoodweekly,http://hollywoodweeklymagazine.com/,0,,hollywoodweeklymagazine
+623372,americaru.com,America RU,http://www.americaru.com/,-1,ru,americaru
+20262,freep.com,freep.com,http://www.freep.com,377,en,freep
+25499,nbcnews.com,NBC News,http://www.nbcnews.com,200,en,nbc
