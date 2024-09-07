@@ -1,0 +1,250 @@
+id,name,url_search_string,label,homepage,notes,platform,stories_per_week,first_story,pub_country,pub_state,primary_language,media_type
+1,nytimes.com,,New York Times,http://nytimes.com,,online_news,1245,,USA,US-NY,,print_native
+2,washingtonpost.com,,Washington Post,http://washingtonpost.com,,online_news,1940,,USA,US-DC,,print_native
+3,csmonitor.com,,Christian Science Monitor,http://csmonitor.com,,online_news,93,,USA,US-MA,en,print_native
+4,usatoday.com,,USA Today,http://www.usatoday.com,,online_news,1422,,USA,US-OH,,print_native
+6,latimes.com,,LA Times,http://www.latimes.com/,,online_news,1310,,USA,US-CA,,print_native
+7,nypost.com,,New York Post,http://www.nypost.com/,,online_news,2203,,USA,US-NY,,print_native
+9,chicagotribune.com,,Chicago Tribune,http://www.chicagotribune.com/,,online_news,653,,USA,US-IL,,print_native
+10,chron.com,,houstonchronicle,http://www.chron.com/,,online_news,361,,USA,US-TX,en,print_native
+12,dallasnews.com,,Dallas Morning News,http://www.dallasnews.com/,,online_news,,,USA,US-TX,en,print_native
+13,newsday.com,,Newsday,http://www.newsday.com/,,online_news,1008,,USA,US-NY,,print_native
+14,sfgate.com,,SF Gate,http://www.sfgate.com/,,online_news,1002,,USA,US-CA,en,digital_native
+21511,bostonglobe.com,,Boston Globe,http://www.bostonglobe.com,,online_news,260,,USA,US-MA,en,
+19,startribune.com,,Star Tribune,http://www.startribune.com/,,online_news,1105,,USA,US-MN,,print_native
+22,tampabay.com,,Tampa Bay Times,http://www.tampabay.com/,,online_news,103,,USA,US-FL,en,print_native
+25,ocregister.com,,Orange County Register,http://www.ocregister.com/,,online_news,496,,USA,US-CA,en,print_native
+26,sacbee.com,,Sac Bee,http://www.sacbee.com/,,online_news,,,USA,US-CA,en,print_native
+28,miamiherald.com,,Miami Herald,http://www.miamiherald.com/,,online_news,15,,USA,US-FL,en,print_native
+30,kansascity.com,,Kansas City Star,http://www.kansascity.com/,,online_news,,,USA,US-MO,en,print_native
+34,baltimoresun.com,,Baltimore Sun,http://www.baltimoresun.com/,,online_news,502,,USA,US-MD,en,print_native
+35,mercurynews.com,,San Jose Mercury News,http://www.mercurynews.com/,,online_news,923,,USA,US-CA,en,print_native
+36,jsonline.com,,Milwaukee Journal Sentinel,http://www.jsonline.com/,,online_news,508,,USA,US-WI,en,print_native
+38,orlandosentinel.com,,Orlando Sentinel,http://www.orlandosentinel.com/,,online_news,377,,USA,US-FL,en,print_native
+39,sun-sentinel.com,,South Florida Sun-Sentinel,http://www.sun-sentinel.com/,,online_news,308,,USA,US-FL,en,print_native
+41,dispatch.com,,Columbus Dispatch,http://www.dispatch.com/,,online_news,,,USA,US-OH,en,print_native
+45,post-gazette.com,,Pittsburgh Post-Gazette,http://www.post-gazette.com/,,online_news,303,,USA,US-PA,en,print_native
+52,twincities.com,,St.Paul Pioneer-Press,http://www.twincities.com/,,online_news,516,,USA,US-MN,en,print_native
+54,omaha.com,,Omaha World-Herald,http://www.omaha.com/,,online_news,0,,USA,US-NE,en,print_native
+147704,arkansasonline.com,,arkansasonline.com,http://arkansasonline.com/,,online_news,908,,,,,
+57,buffalonews.com,,The Buffalo News,buffalonews.com,,online_news,0,,USA,US-NY,,print_native
+59,courant.com,,Hartford Courant,http://www.courant.com/,,online_news,128,,USA,US-CT,en,print_native
+113,talkingpointsmemo.com,,Talking Points Memo,http://www.talkingpointsmemo.com,,online_news,55,,USA,,,digital_native
+115,dailykos.com,,Daily Kos,http://www.dailykos.com,,online_news,172,,USA,,,digital_native
+117,hotair.com,,Hot Air,http://hotair.com,,online_news,151,,USA,,en,digital_native
+128,redstate.com,,RedState,http://www.redstate.com,,online_news,207,,USA,,en,digital_native
+140,politicalwire.com,,Taegan Goddard's Political Wire,http://politicalwire.com,,online_news,322,,USA,,en,digital_native
+401,tnr.com,,The New Replublic,http://www.tnr.com/,,online_news,81,,USA,,en,print_native
+798,factcheck.org,,FactCheck,http://factcheck.org/,,online_news,6,,USA,,en,digital_native
+1040,realclearpolitics.com,,RealClearPolitics,http://realclearpolitics.com/,,online_news,566,,USA,,en,digital_native
+1089,reuters.com,,Reuters,http://www.reuters.com/,stopped official rss support in 2020,online_news,2,,USA,,,other
+1092,foxnews.com,,Fox News,http://www.foxnews.com/,,online_news,1446,,USA,US-NY,,video_broadcast
+1095,cnn.com,,CNN,http://www.cnn.com/,,online_news,1175,,USA,US-GA,,video_broadcast
+1096,npr.org,,NPR,https://www.npr.org/,,online_news,921,,USA,,,video_broadcast
+1098,newsweek.com,,Newsweek,http://www.newsweek.com/,,online_news,726,,,,en,
+1100,usnews.com,,US News & World Report,http://www.usnews.com/,,online_news,,,USA,,en,print_native
+1101,newyorker.com,,New Yorker,http://www.newyorker.com/,,online_news,200,,USA,,en,print_native
+1104,forbes.com,,Forbes,http://www.forbes.com/,,online_news,1770,,USA,,en,print_native
+1105,fortune.com,,Fortune,http://fortune.com,,online_news,306,,USA,,en,print_native
+1110,theatlantic.com,,Atlantic,http://www.theatlantic.com/,,online_news,91,,USA,,,print_native
+1112,motherjones.com,,Mother Jones,http://www.motherjones.com/,,online_news,35,,USA,,en,print_native
+1113,harpers.org,,Harper's Magazine,http://www.harpers.org/,,online_news,3,,USA,,en,print_native
+1008,thenation.com,,Nation,http://thenation.com/,,online_news,122,,,,en,
+1117,nationalreview.com,,National Review,http://www.nationalreview.com/,,online_news,128,,USA,,en,print_native
+1125,newsbusters.org,,NewsBusters,http://newsbusters.org,,online_news,119,,USA,,en,digital_native
+1127,rawstory.com,,Raw Story,http://rawstory.com,,online_news,573,,USA,,,digital_native
+22732,wsj.com,,on.wsj.com,http://on.wsj.com,,online_news,1614,,,,,
+1641,cleveland.com,,cleveland.com,http://www.cleveland.com/,,online_news,1025,,USA,US-OH,en,digital_native
+1706,upi.com,,UPI,http://www.upi.com/,,online_news,479,,USA,,,other
+1707,thedailybeast.com,,Daily Beast,http://www.thedailybeast.com/,,online_news,128,,USA,,en,digital_native
+1751,theguardian.com,theguardian.com/us,Guardian US,https://www.theguardian.com/us,,online_news,256,,GBR,,en,
+1752,cbsnews.com,,CBS News,http://www.cbsnews.com/,,online_news,744,,USA,US-NY,,video_broadcast
+1755,cnbc.com,,CNBC,http://www.cnbc.com/,,online_news,400,,USA,,en,video_broadcast
+1757,salon.com,,Salon,http://www.salon.com/,,online_news,160,,USA,,,digital_native
+4415,cnet.com,,CNET,http://cnet.com,,online_news,391,,USA,,en,digital_native
+4419,time.com,,Time,http://time.com,,online_news,128,,USA,,en,
+4438,techcrunch.com,,TechCrunch,http://techcrunch.com,,online_news,251,,USA,,en,
+366306,espn.com,,espn.com,http://espn.com/,,online_news,423,,,,,
+4469,gizmodo.com,,Gizmodo,http://gizmodo.com,,online_news,191,,USA,,en,
+5521,rollingstone.com,,Rolling Stone,http://www.rollingstone.com,,online_news,245,,USA,,en,print_native
+5527,mashable.com,,Mashable!,http://mashable.com,,online_news,233,,USA,,en,digital_native
+5856,eonline.com,,E! Online,http://www.eonline.com/,,online_news,355,,USA,,en,video_broadcast
+5880,gawker.com,,Gawker,http://gawker.com,,online_news,12,,USA,,en,digital_native
+5915,fivethirtyeight.com,,FiveThirtyEight,http://www.fivethirtyeight.com/,,online_news,15,,USA,,en,digital_native
+5982,businessweek.com,,BusinessWeek.com,http://www.businessweek.com/,,online_news,,,USA,,en,print_native
+6154,jezebel.com,,Jezebel,http://jezebel.com,,online_news,68,,USA,,en,digital_native
+6218,buzzfeed.com,,Buzzfeed,http://www.buzzfeed.com,,online_news,1471,,USA,,,digital_native
+18342,politico.com,,politico.com,http://www.politico.com,,online_news,305,,,,en,
+18351,arstechnica.com,,arstechnica.com,http://arstechnica.com,,online_news,90,,USA,,en,digital_native
+18393,opensecrets.org,,OpenSecrets,http://www.opensecrets.org,,online_news,3,,USA,US-DC,en,digital_native
+18496,hollywoodreporter.com,,Hollywood Reporter,http://www.hollywoodreporter.com,,online_news,312,,USA,,en,print_native
+18658,weeklystandard.com,,Weekly Standard,http://www.weeklystandard.com,,online_news,,,USA,,en,print_native
+18704,thewrap.com,,The Wrap,http://www.thewrap.com,,online_news,311,,USA,,en,digital_native
+18710,businessinsider.com,,Business Insider,http://www.businessinsider.com,,online_news,186,,USA,,en,digital_native
+18775,dailycaller.com,,Daily Caller,http://dailycaller.com,,online_news,651,,USA,,,digital_native
+19076,variety.com,,variety.com,http://www.variety.com,,online_news,439,,USA,,en,print_native
+19082,pjmedia.com,,PJ Media,http://pjmedia.com,,online_news,131,,USA,,en,digital_native
+19194,billboard.com,,Billboard,http://www.billboard.com,,online_news,371,,USA,,en,print_native
+19317,mongabay.com,,Mongabay,https://news.mongabay.com/,,online_news,27,,USA,,en,digital_native
+19334,breitbart.com,,Breitbart,http://www.breitbart.com,,online_news,667,,USA,,,digital_native
+19466,maxpreps.com,,maxpreps.com,http://www.maxpreps.com,,online_news,,,,,en,
+25915,postandcourier.com,,postandcourier.com,http://www.postandcourier.com,,online_news,0,,,,,
+19643,slate.com,,Slate.com,http://www.slate.com,,online_news,103,,USA,,en,digital_native
+19763,townhall.com,,townhall.com,http://townhall.com,,online_news,86,,USA,,en,digital_native
+19854,rollcall.com,,Roll Call,http://www.rollcall.com,,online_news,58,,USA,,en,print_native
+20060,bizjournals.com,,bizjournals.com,https://www.bizjournals.com,,online_news,,,USA,,en,digital_native
+20120,nj.com,,nj.com,http://www.nj.com,,online_news,1677,,USA,US-NJ,en,digital_native
+20357,cnsnews.com,,CNS News,http://cnsnews.com,,online_news,2,,USA,,en,digital_native
+20410,livescience.com,,livescience.com,http://www.livescience.com,,online_news,55,,USA,US-NY,en,digital_native
+20639,propublica.org,,ProPublica,http://www.propublica.org,,online_news,12,,USA,US-NY,en,digital_native
+20815,pitchfork.com,,pitchfork.com,http://www.pitchfork.com,,online_news,126,,USA,,en,digital_native
+20982,vanityfair.com,,Vanity Fair,http://www.vanityfair.com,,online_news,121,,USA,,en,print_native
+21038,c-span.org,,CSPAN,http://www.c-span.org,,online_news,,,USA,,en,video_broadcast
+21091,observer.com,,observer.com,http://www.observer.com,,online_news,55,,USA,,en,digital_native
+21270,stripes.com,,Stars and Stripes,http://www.stripes.com,,online_news,103,,USA,,en,print_native
+21542,theweek.com,,The Week,http://theweek.com,,online_news,206,,USA,,en,print_native
+21619,thestreet.com,,The Street,http://www.thestreet.com,,online_news,261,,USA,,en,digital_native
+21919,spectator.org,,American Spectator,http://spectator.org,,online_news,48,,USA,,en,print_native
+1723,pri.org,,PRI,http://www.pri.org,,online_news,17,,,,en,video_broadcast
+22041,benzinga.com,,Benzinga,http://www.benzinga.com,,online_news,126,,USA,,en,digital_native
+22088,theblaze.com,,Blaze,http://www.theblaze.com,,online_news,233,,USA,,,digital_native
+22116,techradar.com,,techradar.com,http://www.techradar.com,,online_news,419,,GBR,,,
+22332,truth-out.org,,Truthout,http://www.truth-out.org,,online_news,47,,USA,,en,digital_native
+22383,kapitall.com,,Kapitall Wire,http://wire.kapitall.com,,online_news,,,USA,,en,digital_native
+22389,deadspin.com,,Deadspin,http://deadspin.com,,online_news,209,,USA,,en,digital_native
+33,mysanantonio.com,,San Antonio Express News,http://www.mysanantonio.com/,,online_news,273,,USA,US-TX,en,video_broadcast
+17,ajc.com,,The Atlanta Journal Constitution,http://www.ajc.com/,,online_news,0,,USA,US-GA,en,print_native
+23290,ncregister.com,,National Catholic Register,http://www.ncregister.com,,online_news,91,,USA,,en,print_native
+24581,colorlines.com,,colorlines.com,http://colorlines.com,,online_news,12,,USA,,en,digital_native
+24621,hollywoodlife.com,,hollywoodlife.com,http://hollywoodlife.com,,online_news,257,,,,en,
+24652,opposingviews.com,,opposingviews.com,http://www.opposingviews.com,,online_news,86,,USA,,en,digital_native
+24661,newsone.com,,newsone.com,http://newsone.com,,online_news,9,,USA,US-NY,en,digital_native
+24745,nbcsports.com,,NBC Sports,http://www.nbcsports.com/,,online_news,331,,USA,,en,video_broadcast
+24747,radaronline.com,,radaronline.com,http://www.radaronline.com,,online_news,228,,USA,,en,print_native
+24757,usmagazine.com,,US Weekly,http://www.usmagazine.com,,online_news,468,,USA,,en,print_native
+24901,bleacherreport.com,,Bleacher Report,http://bleacherreport.com,,online_news,1326,,USA,,en,digital_native
+24940,seattletimes.com,,Seattle Times,http://seattletimes.com,,online_news,,,USA,US-WA,en,print_native
+25128,azcentral.com,,AZCentral,http://www.azcentral.com,,online_news,1129,,USA,US-AZ,en,digital_native
+27,stltoday.com,,St. Louis Post Dispatch,http://www.stltoday.com/,,online_news,1307,,USA,US-MO,en,print_native
+25180,creators.com,,creators.com,http://www.creators.com,,online_news,,,USA,,en,other
+25336,eurweb.com,,eurweb,http://www.eurweb.com,,online_news,136,,USA,,en,digital_native
+25349,newsmax.com,,Newsmax,http://www.newsmax.com,,online_news,,,USA,,,digital_native
+25363,nationalmemo.com,,National Memo,http://www.nationalmemo.com,,online_news,37,,USA,,en,digital_native
+25626,patriotpost.us,,patriot post,http://patriotpost.us,,online_news,55,,USA,,en,digital_native
+111288,centralmaine.com,,centralmaine.com,http://centralmaine.com/,,online_news,480,,,,,
+25848,cbssports.com,,cbssports.com,http://www.cbssports.com,,online_news,928,,USA,,en,video_broadcast
+26140,gazettenet.com,,gazettenet.com,http://www.gazettenet.com,,online_news,171,,USA,US-MA,en,print_native
+26310,rutlandherald.com,,rutlandherald.com,http://www.rutlandherald.com,,online_news,,,USA,US-VT,en,print_native
+26363,opednews.com,,opednews.com,http://www.opednews.com,,online_news,46,,USA,,en,digital_native
+26590,cincinnati.com,,cincinnati.com,http://cincinnati.com,,online_news,382,,USA,US-OH,en,digital_native
+26924,inquisitr.com,,Inquisitr,http://www.inquisitr.com,,online_news,97,,USA,,en,digital_native
+323119,indiewire.com,,IndieWire,http://www.indiewire.com/feed/,,online_news,62,,,,en,
+27011,investors.com,,Investors,http://www.investors.com,,online_news,,,USA,US-CA,en,print_native
+27343,grist.org,,Grist,http://grist.org/,,online_news,21,,USA,US-WA,en,digital_native
+314,huffingtonpost.com,,The Huffington Post (broken),http://www.huffingtonpost.com/,,online_news,1399,,,,en,
+27510,ibabuzz.com,,The HayWord -,http://www.ibabuzz.com/hayword/,,online_news,,,,,en,
+28248,pressrepublican.com,,Press-Republican,http://pressrepublican.com/,,online_news,,,USA,US-NY,,print_native
+27063,pewstates.org,,pewstates.org,http://www.pewstates.org,,online_news,111,,,,,
+29827,rttnews.com,,rttnews,http://www.rttnews.com#spider,,online_news,452,,USA,,en,digital_native
+31137,therealnews.com,,TheRealNews.com,http://therealnews.com#spider,,online_news,15,,USA,,en,digital_native
+370876,barrons.com,,buy.barrons.com,http://buy.barrons.com/,,online_news,0,,,,,
+33514,parade.com,,Parade,http://www.parade.com#spider,,online_news,,,USA,,en,print_native
+196181,ncronline.org,,openx.ncronline.org,http://openx.ncronline.org/,,online_news,52,,,,,
+34663,breakingnews.com,,NBC Breaking News,http://www.breakingnews.com#spider,,online_news,,,USA,,,digital_native
+19562,marketwatch.com,,Market Watch,http://www.marketwatch.com,,online_news,0,,USA,,en,
+20263,scientificamerican.com,,scientificamerican.com,http://www.scientificamerican.com,,online_news,286,,,,,
+38987,monstersandcritics.com,,monstersandcritics,http://www.monstersandcritics.com/,,online_news,279,,USA,,en,digital_native
+19260,abcnews.go.com,,abcnews.go.com,http://abcnews.go.com,,online_news,1017,,,,,
+18747,zdnet.com,,zdnet.com,http://www.zdnet.com,,online_news,142,,,,,
+39573,staradvertiser.com,,HonululuAdvertiser,http://www.staradvertiser.com/,,online_news,500,,USA,US-HI,en,print_native
+18410,wired.com,,wired.com,http://www.wired.com,,online_news,86,,,,,
+18482,bloomberg.com,,bloomberg.com,http://www.bloomberg.com,,online_news,357,,,,,
+4420,engadget.com,,Engadget,http://engadget.com,,online_news,311,,,,en,
+20273,ibtimes.com,,ibtimes.com,http://www.ibtimes.com,,online_news,931,,,,,
+48639,sentinelsource.com,,sentinelsource.com,http://www.sentinelsource.com/#spider,,online_news,,,USA,US-NH,en,print_native
+367274,theconversation.com,,theconversation.com,http://theconversation.com/,,online_news,394,,,,,
+25933,syracuse.com,,syracuse.com,http://www.syracuse.com,,online_news,547,,,,,
+4467,tmz.com,,TMZ.com,http://www.tmz.com,,online_news,124,,,,en,
+1140,alternet.org,,AlterNet,http://www.alternet.org/,,online_news,221,,,,en,
+57166,univision.com,,univision.com,http://univision.com/,,online_news,,,USA,US-AZ,es,video_broadcast
+226,newsblaze.com,,News Blaze,http://newsblaze.com,,online_news,8,,,,en,
+62552,elnuevodia.com,,El Nuevo Dia,http://elnuevodia.com/,,online_news,24,,PRI,,,print_native
+1490,mlive.com,,MLive.com,http://www.mlive.com,,online_news,959,,,,en,
+367245,qz.com,,qz.com,http://qz.com/,,online_news,100,,,,,
+690347,ign.com,,s.ign.com,http://s.ign.com/,,online_news,755,,,,,
+860476,sbnation.com,,s.sbnation.com,http://s.sbnation.com/,,online_news,74,,,,,
+67771,airforcetimes.com,,AirforceTimes,http://www.airforcetimes.com/#spider,,online_news,111,,USA,,en,print_native
+1793073,uproxx.com,,x.uproxx.com,http://x.uproxx.com/,,online_news,450,,,,,
+1743487,providencejournal.com,,amp.providencejournal.com,http://amp.providencejournal.com/,,online_news,,,,,,
+159383,fansided.com,,fansided.com,http://fansided.com/,,online_news,436,,,,,
+136666,americanfreepress.net,,shop.americanfreepress.net,http://shop.americanfreepress.net/,,online_news,3,,,,,
+151583,polygon.com,,live.polygon.com,http://live.polygon.com/,,online_news,133,,,,,
+386565,elitedaily.com,,cdn29.elitedaily.com,http://cdn29.elitedaily.com/,,online_news,63,,,,,
+70420,armytimes.com,,ArmyTimes,http://www.armytimes.com/#spider,,online_news,93,,USA,,en,print_native
+70638,navytimes.com,,NavyTimes,http://www.navytimes.com/#spider,,online_news,105,,USA,,en,print_native
+1855715,fayobserver.com,,amp.fayobserver.com,http://amp.fayobserver.com/,,online_news,,,,,,
+72605,ew.com,,Entertainment Weekly,http://www.ew.com,,online_news,,,USA,,en,print_native
+74242,norwichbulletin.com,,norwichbulletin.com,http://www.norwichbulletin.com/#spider,,online_news,,,USA,US-CT,en,print_native
+18733,oregonlive.com,,oregonlive.com,http://www.oregonlive.com,,online_news,789,,,,,
+22529,philly.com,,philly.com,http://www.philly.com,,online_news,,,,,,
+77578,nhgazette.com,,nhgazette.com,http://www.nhgazette.com/#spider,,online_news,9,,USA,US-NH,en,print_native
+79209,pilotonline.com,,pilotonline.com,http://pilotonline.com/#spider,,online_news,459,,USA,US-VA,en,print_native
+79587,marinetimes.com,,marinetimes.com,http://www.marinetimes.com/#spider,,online_news,13,,USA,,en,print_native
+323222,popmatters.com,,http://www.popmatters.com/feeds/,http://www.popmatters.com/feeds,,online_news,27,,,,en,
+1289242,ledger-enquirer.com,,amp.ledger-enquirer.com,http://amp.ledger-enquirer.com/,,online_news,,,,,,
+84582,fusion.net,,Fusion,http://fusion.net,,online_news,,,USA,,en,digital_native
+85364,newsy.com,,newsy,http://www.newsy.com/#spider,,online_news,242,,USA,,en,digital_native
+20992,indystar.com,,indystar.com,http://www.indystar.com,,online_news,27,,,,,
+86303,accesshollywood.com,,Access Hollywood,http://www.accesshollywood.com/#spider,,online_news,,,USA,,en,digital_native
+86512,x17online.com,,x17online.com,http://www.x17online.com/#spider,,online_news,2,,USA,,en,digital_native
+88260,eater.com,,eater.com,http://eater.com/#spider,,online_news,22,,,,en,
+1274884,saturdayeveningpost.com,,files.saturdayeveningpost.com,http://files.saturdayeveningpost.com/,,online_news,13,,,,,
+366942,bustle.com,,bustle.com,http://bustle.com/,,online_news,192,,,,,
+588414,hudsonvalley360.com,,hudsonvalley360.com,http://hudsonvalley360.com/,,online_news,,,,,,
+104828,vox.com,,Vox,http://www.vox.com,,online_news,64,,USA,,,digital_native
+104377,contactomagazine.com,,Contacto,http://www.contactomagazine.com,,online_news,,,USA,,es,print_native
+104698,refinery29.com,,Refinery29,http://www.refinery29.com,,online_news,70,,,,en,
+366790,dailysignal.com,,dailysignal.com,http://dailysignal.com/,,online_news,74,,,,,
+105196,talkingnewmedia.com,,talkingnewmedia.com,http://talkingnewmedia.com/#spider,,online_news,0,,USA,,en,digital_native
+106678,inquirer.com,,Inquirer,http://inquirer.com/,,online_news,,,,,,
+19508,theverge.com,,theverge,http://www.theverge.com,,online_news,171,,,,,
+107659,mintpressnews.com,,MintPress News,http://mintpressnews.com/,,online_news,6,,USA,,en,digital_native
+109076,mic.com,,Mic,http://mic.com/,,online_news,18,,USA,,en,digital_native
+111877,thepostgame.com,,The PostGame,http://thepostgame.com/,,online_news,2,,USA,,en,digital_native
+113747,recorder.com,,recorder.com,http://recorder.com/,,online_news,166,,USA,US-MA,en,print_native
+125751,axcessnews.com,,AxcessNews,http://axcessnews.com/,,online_news,3,,USA,,en,digital_native
+127733,oann.com,,Oan,http://oann.com/,,online_news,244,,USA,US-CA,en,digital_native
+136431,berkshireeagle.com,,berkshireeagle.com,http://berkshireeagle.com/,,online_news,,,USA,US-MA,en,print_native
+140484,thrillist.com,,thrillist.com,http://thrillist.com/,,online_news,178,,,,en,
+143374,redherring.com,,Red Herring,http://redherring.com/,,online_news,3,,USA,,en,print_native
+146969,axs.com,,axs.com,http://axs.com/,,online_news,,,USA,,en,digital_native
+147903,247sports.com,,247sports.com,http://247sports.com/,,online_news,186,,USA,,en,digital_native
+173769,augustachronicle.com,,augustachronicle.com,http://augustachronicle.com/,,online_news,,,,,,
+98456,sportingnews.com,,Sporting News - Real Insight. Real Fans. Real Conversations.,http://sportingnews.com,,online_news,876,,,,en,
+244743,indiancountrytoday.com,,Indian Country Today,http://indiancountrytoday.com/,,online_news,58,,USA,,en,print_native
+259449,cherokeephoenix.org,,Cherokee Phoenix,http://cherokeephoenix.org/,,online_news,,,USA,,,
+268225,sandiegouniontribune.com,,San Diego Union Tribune,http://sandiegouniontribune.com/,,online_news,29,,USA,US-CA,en,print_native
+366870,theintercept.com,,theintercept.com,http://theintercept.com/,,online_news,68,,,,,
+1093,pbs.org,,PBS,http://www.pbs.org/,,online_news,220,,,,en,
+55476,foxsports.com,,www.foxsports.com,http://www.foxsports.com/,,online_news,619,,,,en,
+278480,scout.com,,Scout,http://scout.com/,,online_news,,,USA,,en,digital_native
+285572,talkmedianews.com,,Talk Media News,http://talkmedianews.com/,,online_news,,,USA,,en,digital_native
+300241,dailysource.org,,Daily Source,http://www.dailysource.org/,,online_news,59,,USA,,en,digital_native
+19452,lexisnexis.com,,lexisnexis.com,http://www.lexisnexis.com,,online_news,18,,,,,
+21208,people.com,,people.com,http://www.people.com,,online_news,,,,,,
+300477,polamjournal.com,,Polish American Journal,http://www.polamjournal.com/,,online_news,,,USA,,en,print_native
+300516,schwartzreport.net,,Schwartzreport,http://www.schwartzreport.net/,,online_news,31,,USA,,en,digital_native
+21617,vice.com,,vice.com,http://www.vice.com,,online_news,158,,,,en,
+324726,antena305.com,,antena305.com,http://antena305.com/,,online_news,4,,USA,,es,digital_native
+293951,msnbc.com,,msnbc.com 1,http://msnbc.com/,,online_news,124,,,,en,
+20487,gq.com,,GQ,http://www.gq.com,,online_news,73,,,,en,
+21515,foxbusiness.com,,Fox Business,http://www.foxbusiness.com,,online_news,14,,,,en,
+20401,dailydot.com,,Daily Dot,http://www.dailydot.com,,online_news,181,,USA,,en,
+255385,indiancountrynews.com,,indiancountrynews.com,http://indiancountrynews.com/,,online_news,,,,,en,
+367446,nationalenquirer.com,,nationalenquirer.com,http://nationalenquirer.com/,,online_news,2,,USA,,en,print_native
+25791,theroot.com,,The Root,http://www.theroot.com,,online_news,81,,,,en,
+31,denverpost.com,,The Denver Post,http://www.denverpost.com/,,online_news,642,,USA,US-CO,en,print_native
+413473,hollywoodweeklymagazine.com,,hollywoodweekly,http://hollywoodweeklymagazine.com/,,online_news,0,,USA,,,print_native
+623372,americaru.com,,America RU,http://www.americaru.com/,,online_news,,,USA,,ru,digital_native
+20262,freep.com,,freep.com,http://www.freep.com,,online_news,377,,USA,US-MI,en,print_native
+25499,nbcnews.com,,NBC News,http://www.nbcnews.com,,online_news,200,,USA,,en,

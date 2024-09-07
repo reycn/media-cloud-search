@@ -194,7 +194,6 @@ dependencies:
   - pip:
       - distlib==0.3.8
       - filelock==3.15.4
-      - mediacloud==4.1.4
       - mediacloud-api-legacy==3.13.1
       - pipenv==2024.0.1
       - virtualenv==20.26.3
